@@ -1,6 +1,6 @@
-------------------------------------------------------------------------------------------------------------------------------
-						Lq OLSR - Extension of OLSR protocol to support link-quality metrics in NS3
-------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+		Lq OLSR - Extension of OLSR protocol to support link-quality metrics in NS3
+---------------------------------------------------------------------------------------------------------------------
 
 ---> To Do
 	- More appropriate MPR computation. Currently, all symetric neighbors are selected to be MPRs. Because this functionality
