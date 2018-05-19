@@ -4,7 +4,7 @@
 
 ---> To Do
 	
-	- More appropriate MPR computation. Currently, all symetric neighbors are selected to be MPRs. Because this functionality is not important in my PhD. research, I don´t intend to work on this any soon.
+	- More appropriate MPR computation. Currently, all symetric neighbors are selected to be MPRs.
 	  
 ---> Metrics
     
